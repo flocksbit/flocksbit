@@ -41,6 +41,6 @@ src="https://img.shields.io/github/followers/duckjson?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/flocksbit"><img src="https://github-readme-stats.vercel.app/api?username=duckjson&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="duckjson's GitHub stats" /></a>
+<a href="http://www.github.com/flocksbit"><img src="https://github-readme-stats.vercel.app/api?username=flocksbit&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=64748b&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="duckjson's GitHub stats" /></a>
 
-<a href="http://www.github.com/duckjson"><img src="https://github-readme-streak-stats.herokuapp.com/?user=duckjson&stroke=64748b&background=000000&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="http://www.github.com/flocksbit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=flocksbit&stroke=64748b&background=000000&ring=ef4444&fire=ef4444&currStreakNum=64748b&currStreakLabel=ef4444&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
